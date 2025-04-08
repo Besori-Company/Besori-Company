@@ -27,7 +27,7 @@
 ## 🌐 Follow us and collaborate
 
 - 🌍 Official website: [Besori](https://besori-company.github.io/Besori/)
-- 📷 Instagram: [@b.e.s.o.r.i](https://instagram.com/besori.studio)
+- 📷 Instagram: [@b.e.s.o.r.i](https://www.instagram.com/b.e.s.o.r.i/)
 - 📧 Contact: besoricompany@gmail.com
 
 ---
