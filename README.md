@@ -34,3 +34,10 @@
 
 <p align="center"><i>“Building worlds from lines of code.”</i></p>
 
+---
+
+### 📊 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight)
+
+
