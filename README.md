@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 Lenguajes más usados
+### 📊 Most used languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Besori-Company&layout=compact&langs_count=8&theme=tokyonight)
 
