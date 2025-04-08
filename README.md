@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hello, I'm Besori 👋
 
-<!--
-**Besori-Company/Besori-Company** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/banner.png" alt="Besori Banner" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">🎮✨ Besori</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Desarrollo de aplicaciones y videojuegos.  
+  <br>
+  <b>Creatividad</b> y <b>tecnología</b> fusionadas en experiencias únicas.
+</p>
+
+---
+
+## 🚀 ¿Qué es Besori?
+
+**Besori** es una iniciativa dedicada al desarrollo de software interactivo, enfocado en:
+
+- 🕹️ Videojuegos indie y narrativos
+- 📱 Aplicaciones modernas
+- 🧪 Proyectos experimentales y creativos
+
+---
+
+## 🌐 Síguenos y colabora
+
+- 🌍 Web oficial: [Besori](https://besori-company.github.io/Besori/)
+- 📷 Instagram: [@b.e.s.o.r.i](https://instagram.com/besori.studio)
+- 📧 Contacto: besoricompany@gmail.com
+
+---
+
+<p align="center"><i>“Construyendo mundos desde líneas de código.”</i></p>
+
