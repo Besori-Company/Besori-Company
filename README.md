@@ -7,30 +7,30 @@
 <h1 align="center">🎮✨ Besori</h1>
 
 <p align="center">
-  Desarrollo de aplicaciones y videojuegos.  
+  Application and video game development.  
   <br>
-  <b>Creatividad</b> y <b>tecnología</b> fusionadas en experiencias únicas.
+  <b>Creativity</b> and <b>technology</b> fused into unique experiences.
 </p>
 
 ---
 
-## 🚀 ¿Qué es Besori?
+## 🚀 What is Besori?
 
-**Besori** es una iniciativa dedicada al desarrollo de software interactivo, enfocado en:
+**Besori** It is an initiative dedicated to the development of interactive software, focused on:
 
-- 🕹️ Videojuegos indie y narrativos
-- 📱 Aplicaciones modernas
-- 🧪 Proyectos experimentales y creativos
+- 🕹️ Indie and narrative video games
+- 📱 Modern applications
+- 🧪 Experimental and creative projects
 
 ---
 
-## 🌐 Síguenos y colabora
+## 🌐 Follow us and collaborate
 
-- 🌍 Web oficial: [Besori](https://besori-company.github.io/Besori/)
+- 🌍 Official website: [Besori](https://besori-company.github.io/Besori/)
 - 📷 Instagram: [@b.e.s.o.r.i](https://instagram.com/besori.studio)
-- 📧 Contacto: besoricompany@gmail.com
+- 📧 Contact: besoricompany@gmail.com
 
 ---
 
-<p align="center"><i>“Construyendo mundos desde líneas de código.”</i></p>
+<p align="center"><i>“Building worlds from lines of code.”</i></p>
 
