@@ -38,6 +38,9 @@
 
 ### 📊 Most used languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Besori-Company&layout=compact&langs_count=8&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Besori-Company&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
+</p>
+
 
 
