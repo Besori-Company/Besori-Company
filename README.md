@@ -28,7 +28,6 @@
 
 - 🌍 Official website: [Besori](https://besori-company.github.io/)
 - 📷 Instagram: [@b.e.s.o.r.i](https://www.instagram.com/b.e.s.o.r.i/)
-- 🪡 Threads: [@b.e.s.o.r.i](https://www.threads.net/@b.e.s.o.r.i).
 - 📰 X: [@besoricompany](https://x.com/besoricompany)
 - 📧 Contact: besoricompany@gmail.com
 
