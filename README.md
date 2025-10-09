@@ -18,7 +18,7 @@
 
 **Besori** It is an initiative dedicated to the development of interactive software, focused on:
 
-- 🕹️ Indie and narrative video games
+- 🕹️ Indie video games
 - 📱 Modern applications
 - 🧪 Experimental and creative projects
 
