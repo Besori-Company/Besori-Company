@@ -1,7 +1,7 @@
 ## Hello, I'm Besori 👋
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Besori Banner"/>
+  <img src="/assets/banner.png" alt="Besori Banner"/>
 </p>
 
 <h1 align="center">🎮✨ Besori</h1>
