@@ -38,9 +38,6 @@
 ---
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Besori-Company&column=4)
-
-
 
 
 
