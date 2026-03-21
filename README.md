@@ -41,4 +41,3 @@ Founded in 2025 in Valencia, Spain.
 
 <p align="center"><i>"Building worlds from lines of code."</i></p>
 
-<br>
