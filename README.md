@@ -18,7 +18,7 @@
   &nbsp;&nbsp;
   <a href="https://x.com/besoricompany"><img src="./assets/badge_x.svg" alt="X" height="42"></a>
   &nbsp;&nbsp;
-  <a href="mailto:besoricompany@gmail.com"><img src="./assets/badge_contact.svg" alt="Email" height="42"></a>
+  <a href="mailto:info.besori@gmail.com"><img src="./assets/badge_contact.svg" alt="Email" height="42"></a>
 </p>
 
 <br><br>
