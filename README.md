@@ -13,19 +13,19 @@
 
 <p align="center">
   <a href="https://besori-company.github.io/">
-    <img src="https://img.shields.io/badge/%20Website-3577b1?style=flat&logo=google-chrome&logoColor=white&labelColor=3577b1" alt="Website">
+    <img src="./assets/badge_website.svg" alt="Website" height="42">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/b.e.s.o.r.i/">
-    <img src="https://img.shields.io/badge/%20Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram">
+    <img src="./assets/badge_instagram.svg" alt="Instagram" height="42">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://x.com/besoricompany">
-    <img src="https://img.shields.io/badge/%20X-1a1a1a?style=flat&logo=x&logoColor=white&labelColor=1a1a1a" alt="X">
+    <img src="./assets/badge_x.svg" alt="X" height="42">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:besoricompany@gmail.com">
-    <img src="https://img.shields.io/badge/%20Contact-ff8c00?style=flat&logo=gmail&logoColor=white&labelColor=ff8c00" alt="Contact">
+    <img src="./assets/badge_contact.svg" alt="Contact" height="42">
   </a>
 </p>
 

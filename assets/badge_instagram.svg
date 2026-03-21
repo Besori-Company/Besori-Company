@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="156"
+   height="42"
+   viewBox="0 0 156 42"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="badge_instagram.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.6190476"
+     inkscape:cx="78.038136"
+     inkscape:cy="21"
+     inkscape:window-width="1908"
+     inkscape:window-height="1033"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" />
+  <defs
+     id="defs9">
+    <linearGradient
+       id="ig"
+       x1="0%"
+       y1="100%"
+       x2="100%"
+       y2="0%">
+      <stop
+         offset="0%"
+         stop-color="#f59020"
+         id="stop2" />
+      <stop
+         offset="50%"
+         stop-color="#e03058"
+         id="stop4" />
+      <stop
+         offset="100%"
+         stop-color="#b01890"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <rect
+     width="156"
+     height="42"
+     rx="21"
+     fill="url(#ig)"
+     id="rect11" />
+  <g
+     transform="translate(24.783633,8.7288798)"
+     id="g19">
+    <rect
+       x="0"
+       y="0"
+       width="24"
+       height="24"
+       rx="6"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="1.6"
+       id="rect13" />
+    <circle
+       cx="12"
+       cy="12"
+       r="5"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="1.6"
+       id="circle15" />
+    <circle
+       cx="18.5"
+       cy="5.5"
+       r="1.5"
+       fill="#ffffff"
+       id="circle17" />
+  </g>
+  <text
+     x="56.783634"
+     y="25.72888"
+     font-family="sans-serif"
+     font-size="14px"
+     font-weight="600"
+     fill="#ffffff"
+     id="text21">Instagram</text>
+</svg>
