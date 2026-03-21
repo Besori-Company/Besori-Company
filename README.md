@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Besori" onerror="this.style.display='none'">
+  <img src="./assets/banner.png" alt="Besori">
 </p>
 
 <br>
@@ -12,24 +12,16 @@
 <br>
 
 <p align="center">
-  <a href="https://besori-company.github.io/">
-    <img src="./assets/badge_website.svg" alt="Website" height="42">
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/b.e.s.o.r.i/">
-    <img src="./assets/badge_instagram.svg" alt="Instagram" height="42">
-  </a>
-  &nbsp;
-  <a href="https://x.com/besoricompany">
-    <img src="./assets/badge_x.svg" alt="X" height="42">
-  </a>
-  &nbsp;
-  <a href="mailto:besoricompany@gmail.com">
-    <img src="./assets/badge_contact.svg" alt="Contact" height="42">
-  </a>
+  <a href="https://besori-company.github.io/"><img src="./assets/badge_website.svg" alt="Website" height="42"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/b.e.s.o.r.i/"><img src="./assets/badge_instagram.svg" alt="Instagram" height="42"></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/besoricompany"><img src="./assets/badge_x.svg" alt="X" height="42"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:besoricompany@gmail.com"><img src="./assets/badge_contact.svg" alt="Email" height="42"></a>
 </p>
 
-<br>
+<br><br>
 
 ---
 
