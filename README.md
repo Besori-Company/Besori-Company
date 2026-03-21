@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <a href="https://besori-company.github.io/"><img src="./assets/badge_website.svg" alt="Website" height="42"></a>
+  <a href="https://besori-company.github.io/Besori.en"><img src="./assets/badge_website.svg" alt="Website" height="42"></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/b.e.s.o.r.i/"><img src="./assets/badge_instagram.svg" alt="Instagram" height="42"></a>
   &nbsp;&nbsp;
