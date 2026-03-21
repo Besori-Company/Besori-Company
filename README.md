@@ -39,6 +39,10 @@ Founded in 2025 in Valencia, Spain.
 
 <br>
 
-<p align="center"><i>"Building worlds from lines of code."</i></p>
+<p align="center">
+  <img src="./assets/bessie.png" alt="Bessie" width="80">
+  <br><br>
+  <i>"Building worlds from lines of code."</i>
+</p>
 
 <br>
