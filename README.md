@@ -29,7 +29,7 @@
 
 ## About
 
-**Besori** is an indie project and brand focused on building innovative and accessible digital experiences — video games, applications, and creative tools.
+**Besori** is an indie project and brand focused on building innovative and accessible digital experiences · Video games, applications and creative tools.
 
 Founded in 2025 in Valencia, Spain.
 
