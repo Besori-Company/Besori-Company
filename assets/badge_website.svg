@@ -6,7 +6,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="badge_website.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      showgrid="false"
      inkscape:zoom="5.6190476"
      inkscape:cx="70.029661"
-     inkscape:cy="21"
-     inkscape:window-width="1908"
-     inkscape:window-height="1033"
+     inkscape:cy="20.911017"
+     inkscape:window-width="1902"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -45,21 +45,25 @@
      stroke-width="1.6"
      stroke-linecap="round"
      stroke-linejoin="round"
-     id="g10">
+     id="g10"
+     style="stroke-width:1.7;stroke-dasharray:none">
     <circle
        cx="10"
        cy="10"
        r="9"
-       id="circle4" />
+       id="circle4"
+       style="stroke-width:1.7;stroke-dasharray:none" />
     <line
        x1="1"
        y1="10"
        x2="19"
        y2="10"
-       id="line6" />
+       id="line6"
+       style="stroke-width:1.7;stroke-dasharray:none" />
     <path
        d="m 10,1 a 14.5,14.5 0 0 1 4,9 14.5,14.5 0 0 1 -4,9 14.5,14.5 0 0 1 -4,-9 14.5,14.5 0 0 1 4,-9 z"
-       id="path8" />
+       id="path8"
+       style="stroke-width:1.7;stroke-dasharray:none" />
   </g>
   <text
      x="55.35994"

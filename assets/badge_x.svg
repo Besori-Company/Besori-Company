@@ -6,7 +6,7 @@
    version="1.1"
    id="svg10"
    sodipodi:docname="badge_x.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="5.6190476"
-     inkscape:cx="41.021186"
-     inkscape:cy="21"
-     inkscape:window-width="1908"
-     inkscape:window-height="1033"
+     inkscape:cx="41.021187"
+     inkscape:cy="20.911017"
+     inkscape:window-width="1902"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -41,9 +41,11 @@
   <g
      transform="translate(29.270293,9.8126324)"
      fill="#ffffff"
-     id="g6">
+     id="g6"
+     style="stroke-width:1.7;stroke-dasharray:none">
     <path
        d="M 13.54,10.085 20.308,2 H 18.705 L 12.831,8.878 8.16,2 H 2.578 L 9.672,12.39 2.578,20 H 4.181 L 10.383,12.74 15.24,20 h 5.582 z M 11.344,12.655 10.625,11.62 4.78,3.23 h 2.462 l 4.615,6.645 0.719,1.035 5.998,8.638 h -2.462 z"
-       id="path4" />
+       id="path4"
+       style="stroke-width:1.7;stroke-dasharray:none" />
   </g>
 </svg>
