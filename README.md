@@ -40,7 +40,7 @@ Founded in 2025 in Valencia, Spain.
 <br>
 
 <p align="center">
-  <img src="./assets/bessie.png" alt="Bessie" width="120">
+  <img src="./assets/bessie.png" alt="Bessie">
 </p>
 
 <br>
