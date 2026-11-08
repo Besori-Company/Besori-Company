@@ -12,13 +12,13 @@
 <br>
 
 <p align="center">
-  <a href="https://besori-company.github.io/Besori.en"><img src="./assets/badge_website.svg" alt="Website" height="42"></a>
+  <a href="https://besori-company.github.io/Besori.en"><img src="./assets/badge_website.svg" alt="Website" height="44"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/b.e.s.o.r.i/"><img src="./assets/badge_instagram.svg" alt="Instagram" height="42"></a>
+  <a href="https://www.instagram.com/b.e.s.o.r.i/"><img src="./assets/badge_instagram.svg" alt="Instagram" height="44"></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/besoricompany"><img src="./assets/badge_x.svg" alt="X" height="42"></a>
+  <a href="https://x.com/besoricompany"><img src="./assets/badge_x.svg" alt="X" height="44"></a>
   &nbsp;&nbsp;
-  <a href="mailto:info.besori@gmail.com"><img src="./assets/badge_contact.svg" alt="Email" height="42"></a>
+  <a href="mailto:info.besori@gmail.com"><img src="./assets/badge_contact.svg" alt="Email" height="44"></a>
 </p>
 
 <br><br>
@@ -40,7 +40,7 @@ Founded in 2025 in Valencia, Spain.
 <br>
 
 <p align="center">
-  <img src="./assets/bessie.png" alt="Bessie">
+  <img src="./assets/bessie.svg" alt="Bessie">
 </p>
 
 <br>
